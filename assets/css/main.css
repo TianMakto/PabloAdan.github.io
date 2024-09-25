@@ -2151,6 +2151,13 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		button.medium,
+		.button.medium {
+			width: 21%;
+			text-align: center;
+			padding: 0 1.5rem;
+		}
+
 		input[type="submit"].small,
 		input[type="reset"].small,
 		input[type="button"].small,
